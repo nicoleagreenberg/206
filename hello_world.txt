@@ -1,3 +1,1 @@
 currently learning how to use git in 206!
-
-hey hey chekcing out staged changes
